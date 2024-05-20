@@ -2,7 +2,9 @@
 
 >   A chatroom website using Socket.io and React
 
-This is real time chatroom made using Express and Socket.io for the server and React with shadcn for client frontend. User can register and login, unresgistered users cannot access chatroom. Authorization and Authentication for same is done via JWT and cookies. Both client and server code is in Typescript. 
+This is real time chatroom made using Express and Socket.io for the server and React with shadcn for client frontend. User can register and login, unresgistered users cannot access chatroom. Authorization and Authentication for same is done via JWT and cookies. Both client and server code is in Typescript. Demo credentials:
+- username: demo
+- password: password
 
 ## Features
 - Light and dark mode
