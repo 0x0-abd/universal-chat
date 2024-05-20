@@ -5,7 +5,12 @@
 This is real time chatroom made using Express and Socket.io for the server and React with shadcn for client frontend. User can register and login, unresgistered users cannot access chatroom. Authorization and Authentication for same is done via JWT and cookies. Both client and server code is in Typescript. 
 
 ## Features
+- Light and dark mode
+- Chat Interface
 
+![alt text](https://github.com/0x0-abd/universal-chat/blob/main/img/light.png)
+![alt text](https://github.com/0x0-abd/universal-chat/blob/main/img/dark.png)
+![alt text](https://github.com/0x0-abd/universal-chat/blob/main/img/chat.png)
 
 ## Installation
 
