@@ -6,6 +6,9 @@ This is real time chatroom made using Express and Socket.io for the server and R
 - Username: demo
 - Password: password
 
+> [!IMPORTANT]  
+> Please try again after 5 minutes from initial login attempt, the server shuts down after 90 minutes of inactivity. Kindly wait 5 minutes after first login attempt and try again.
+
 ## Features
 - Light and dark mode
 - Chat Interface
