@@ -2,20 +2,28 @@
 
 >   A chatroom website using Socket.io and React
 
-This is real time chatroom made using Express and Socket.io for the server and React with shadcn for client frontend. User can register and login, unresgistered users cannot access chatroom. Authorization and Authentication for same is done via JWT and cookies. Both client and server code is in Typescript. Demo website: [Click Here!](https://uc-frontend-five.vercel.app/) Demo credentials:
+This is real time chatroom made using Express and Socket.io for the server and React with shadcn for client frontend. User can register and login, unresgistered users cannot access chatroom. Authorization and Authentication for same is done via JWT, OAuth2 and cookies. Postgres database and storage bucket used from Supabase. Both client and server code is in Typescript. Demo website: [Click Here!](https://uc-frontend-five.vercel.app/) 
+
+Demo credentials:
 - Username: demo
 - Password: password
+
+> [!NOTE]
+> The website has been upgraded with many new features such as sending images and changing username.
 
 > [!IMPORTANT]  
 > Please try again after 5 minutes from initial login attempt, the server shuts down after 90 minutes of inactivity. Kindly wait 5 minutes after first login attempt and try again.
 
 ## Features
 - Light and dark mode
-- Chat Interface
+- Responsive chat Interface
+- Google OAuth Login (NEW)
+- Image Uploads (NEW)
+- Customize Profile (NEW)
 
 ![alt text](https://github.com/0x0-abd/universal-chat/blob/main/img/light.png)
 ![alt text](https://github.com/0x0-abd/universal-chat/blob/main/img/dark.png)
-![alt text](https://github.com/0x0-abd/universal-chat/blob/main/img/chat.png)
+![alt text](https://github.com/0x0-abd/universal-chat/blob/main/img/chat2.png)
 
 ## Installation
 
